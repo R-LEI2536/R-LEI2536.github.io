@@ -266,9 +266,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
-      citation: false
-  # _portfolio
+      comments: true  # _portfolio
   - scope:
       path: ""
       type: portfolio
