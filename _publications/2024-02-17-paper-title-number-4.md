@@ -7,7 +7,15 @@ excerpt: ''
 date: 2024-10-22
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/abs/2410.16953'
-citation: ''
+# citation: ''
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Citation:
+```
+@article{lei2024towards,
+  title={Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations},
+  author={Lei, Cheng and Fan, Jie and Li, Xinran and Xiang, Tianzhu and Li, Ao and Zhu, Ce and Zhang, Le},
+  journal={arXiv preprint arXiv:2410.16953},
+  year={2024}
+}
+```

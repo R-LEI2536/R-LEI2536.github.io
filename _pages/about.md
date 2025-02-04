@@ -1,17 +1,19 @@
 ---
 permalink: /
-title: "Introduction"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a MPhil student at $AVC^2$ Lab, University of Electronic Science and Technology of China (UESTC), working under the supervision of Prof. Ce Zhu and collaborating closely with Prof. Le Zhang. Before that, I received my B.Eng. degree in Glasgow College, UESTC.
+I am a MPhil student at AVC2 Lab, University of Electronic Science and Technology of China (UESTC), working under the supervision of Prof. Ce Zhu and collaborating closely with Prof. Le Zhang. Before that, I received my B.Eng. degree in Glasgow College, UESTC.
 
-My current research focuses on complex scene understanding, particularly in camouflaged object segmentation. I am also interested in multimodal large language models (LLMs) and the generation of images and videos.
+My current research focuses on complex scene understanding, particularly in camouflaged object segmentation. I am also interested in multimodal LLMs and the generation of images and videos.
 
 I welcome collaboration opportunities. Please feel free to contact me directly through email.
+
+Email: rh854lkjd@gmail.com
 
 News
 ======
