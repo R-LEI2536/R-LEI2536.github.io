@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Cheng LEI / Resume"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Cheng LEI"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "University of Electronic Science and Technology of China (UESTC)"
+  bio              : "MPhil student in UESTC"
+  location         : "Chengdu, China"
+  employer         : ""
   uri              : "https://r-lei2536.github.io/"
   email            : "rh854lkjd@gmail.com" 
 
