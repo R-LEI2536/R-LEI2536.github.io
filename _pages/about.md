@@ -20,14 +20,14 @@ Email: rh854lkjd@gmail.com
 <!-- Lei, C., Fan, J., Li, X., Xiang, T., Li, A., Zhu, C., & Zhang, L. (2024). Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations. arXiv preprint arXiv:2410.16953. -->
 
 - 2025-03: ✨ One paper is accepted to CVPR 2025.
-
+- 2025-08: ✨ One paper is accepted to TPAMI.
 
 
 📝 Publications
 ======
 
 - Rethinking Token Reduction with Parameter-Efficient Fine-Tuning in ViT for Pixel-Level Tasks, **Cheng Lei**, Ao Li, Hu Yao, Ce Zhu, Le Zhang, **CVPR 2025**
-
+- Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations, **Cheng Lei**, Jie Fan, Xinran Li, Tian-zhu Xiang, Ao Li, Ce Zhu, Le Zhang, **TPAMI**
 
 <!-- 📖 Education
 ====== -->
