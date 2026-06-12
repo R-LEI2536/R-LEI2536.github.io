@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "title"
-description              : "MPhil student in University of Electronic Science and Technology of China (UESTC)"
+description              : "description. "
 repository               : "test/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
